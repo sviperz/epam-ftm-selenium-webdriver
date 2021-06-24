@@ -1,4 +1,5 @@
 # EPAM FTM Advanced Program - Selenium WebDriver
+https://elearn.epam.com/courses/course-v1:EPAM+WD+ext1/course/
 ## Bring It On
 При выполнении задания необходимо использовать возможности Selenium WebDriver, юнит-тест фреймворка и концепцию Page Object. Автоматизировать следующий сценарий:
 1. Открыть https://pastebin.com или аналогичный сервис в любом браузере.
